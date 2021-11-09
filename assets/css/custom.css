@@ -182,14 +182,7 @@ section > p.standfirst {
   background-color: var(--yellow-100);
 }
 .theme-five .col-2 h2 {
-  color: var(--red-500);
-}
-
-/* ========= THEME ONE ========== */
-
-/* Background colour */
-.theme-one .col-1 h3 {
-  color: var(--gray-700);
+  color: var(--red-600);
 }
 
 .hero-block h1 {
