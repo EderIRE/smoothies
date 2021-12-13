@@ -206,3 +206,8 @@ section > p.standfirst {
   letter-spacing: 1px;
   line-height: 1.6;
 }
+
+#logo {
+  width: 100%;
+  border-radius: 20px;
+}
