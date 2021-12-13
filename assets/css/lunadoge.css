@@ -2895,9 +2895,9 @@ footer p.privacy a:active {
 
 .container-menu a#btn-cta:link,
 .container-menu a#btn-cta:visited {
-  border: solid 2px #000;
+  border: solid 2px #6f42c1;
   color: #fff;
-  background-color: #000;
+  background-color: #6f42c1;
 }
 
 .container-menu a#btn-cta:focus,
